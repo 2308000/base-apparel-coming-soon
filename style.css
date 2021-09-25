@@ -81,6 +81,10 @@ p {
     line-height: 1.4;
 }
 
+input:focus {
+    outline: none;
+}
+
 /*----------------
 -------FORM-------
 ----------------*/
