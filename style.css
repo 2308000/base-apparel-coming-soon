@@ -16,8 +16,6 @@
 body {
     font-family: 'Josefin Sans', sans-serif;
     margin: 0;
-    width: 100vw;
-    height: 100vh;
     color: var(--desaturated-red);
 }
 
@@ -134,6 +132,10 @@ form input::placeholder {
 ----------------*/
 
 @media (min-width: 1024px) {
+
+    body {
+        width: 99.85vw;
+    }
 
     .logo {
         transform: translate(0, -50%);
