@@ -172,7 +172,7 @@ form input::placeholder {
     .container {
         width: 65%;
         height: 90%;
-        margin-top: 7%;
+        margin-top: 5%;
         margin-left: 20%;
     }
 
@@ -195,7 +195,8 @@ form input::placeholder {
     .title {
         text-align: left;
         margin-bottom: 5vh;
-        font-size: 3.5em;
+        font-size: 4.1em;
+        margin-top: 9vh;
     }
 
     p {
