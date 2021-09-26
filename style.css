@@ -156,21 +156,24 @@ form input::placeholder {
 
     .logo {
         transform: translate(0, -50%);
+        height: 2rem;
     }
 
     .left {
-        width: 55%;
+        width: 60%;
         float: left;
         background-image: url('./images/bg-pattern-desktop.svg');
         background-size: cover;
         background-position: center;
         background-repeat: no-repeat;
+        height: 100vh;
     }
 
     .container {
         width: 65%;
         height: 90%;
-        margin: 5% 17.5%;
+        margin-top: 7%;
+        margin-left: 20%;
     }
 
     .main-container {
@@ -183,7 +186,7 @@ form input::placeholder {
         background-position: center;
         background-repeat: no-repeat;
         height: 100vh;
-        width: 45%;
+        width: 40%;
         float: right;
         position: static; 
         top: 0;
