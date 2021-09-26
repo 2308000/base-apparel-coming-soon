@@ -160,7 +160,7 @@ form input::placeholder {
     }
 
     .left {
-        width: 60%;
+        width: 65%;
         float: left;
         background-image: url('./images/bg-pattern-desktop.svg');
         background-size: cover;
@@ -186,7 +186,7 @@ form input::placeholder {
         background-position: center;
         background-repeat: no-repeat;
         height: 100vh;
-        width: 40%;
+        width: 35%;
         float: right;
         position: static; 
         top: 0;
