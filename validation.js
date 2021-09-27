@@ -11,6 +11,7 @@ function validate() {
         document.getElementById("error-icon").style.display = "none";
     } else {
         document.getElementById("error").innerHTML = "Please provide a valid email adress";
+        document.getElementById("error").style.color = "hsl(0, 93%, 68%)";
         document.getElementById("email").style.border = "2px solid hsl(0, 93%, 68%)";
         document.getElementById("error-icon").style.display = "inline";
     }
